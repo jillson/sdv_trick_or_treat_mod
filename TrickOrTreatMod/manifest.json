@@ -1,0 +1,10 @@
+{
+  "Name": "TrickOrTreatMod",
+  "Author": "Dad of Gwen",
+  "Version": "1.0.1",
+  "Description": "Adds candy that you can get on Egg Festival (along with eggs) and Spirit Eve",
+  "UniqueID": "DadOfGwenTrickOrTreatMod",
+  "EntryDll": "TrickOrTreatMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
