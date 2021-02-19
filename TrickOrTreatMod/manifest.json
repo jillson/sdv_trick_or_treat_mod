@@ -6,5 +6,16 @@
   "UniqueID": "DadOfGwenTrickOrTreatMod",
   "EntryDll": "TrickOrTreatMod.dll",
   "MinimumApiVersion": "3.0.0",
+   "Dependencies": [
+    {
+        "UniqueID": "spacechase0.JsonAssets",
+        "IsRequired": true,
+    },
+    {
+        "UniqueID": "dadofgwen.candycontent",
+        "IsRequired": true,
+    },
+
+   ],
   "UpdateKeys": []
 }

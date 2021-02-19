@@ -1,0 +1,19 @@
+{
+    "Name": "Candy Content for Json Assets",
+    "Author": "Carleton and Gwen Jillson",
+    "Description": "A set of Easter and Halloween themed candy.",
+    "Version": "1.0.1",
+    "MinimumApiVersion": "3.7.0",
+    "UniqueID": "dadofgwen.candycontent",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "Dependencies": [
+    {
+        "UniqueID": "spacechase0.JsonAssets",
+        "IsRequired": true,
+    },
+    ],
+    "UpdateKeys": [],
+}

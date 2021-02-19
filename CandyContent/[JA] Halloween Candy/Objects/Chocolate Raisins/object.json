@@ -1,0 +1,19 @@
+{
+    "Name": "Chocolate Raisins",
+    "Description": "nature's candy, plus chocolate",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
+    },
+  "NameLocalization": {
+  },
+  "DescriptionLocalization": {
+  }
+}
